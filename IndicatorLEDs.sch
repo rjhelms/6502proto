@@ -5,10 +5,10 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 5 5
 Title "6502 Protoboard - Indicator LEDs"
-Date "2021-06-27"
+Date "2021-07-29"
 Rev "2"
 Comp "rjh"
-Comment1 ""
+Comment1 "https://github.com/rjhelms/6502proto"
 Comment2 ""
 Comment3 ""
 Comment4 ""
