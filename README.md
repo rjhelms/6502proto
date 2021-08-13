@@ -71,7 +71,7 @@ A similar addressing scheme with 16kB of RAM and 32kB of ROM can also be impleme
 
 The minimal setup above works just fine for the chips on the protoboard, but doesn't leave any room for expanding the system any further. Also, while the VIA only needs 16 bytes of address space, the above setup allocates a whole 16kB to it!
 
-By using a 74HC138 line decoder, that 16kB can be split into 8 2kB segmens, each addressed by one output.
+By using a 74HC138 line decoder, that 16kB can be split into 8 2kB segments, each addressed by one output.
 
 ![](img/address_decode2.png)
 
